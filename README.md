@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32803336/README.md)
+https://github.com/user-attachments/files/32803336/README.md)
 <p align="center">
   <a href="https://github.com/ARALREZ">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello%2C%20fellow%20sufferer!" alt="Hello, fellow sufferer!" />
